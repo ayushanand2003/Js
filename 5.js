@@ -16,3 +16,9 @@ let booleanIsLoggedIn=Boolean(isLoggedIn)
 console.log(typeof(isLoggedIn))
 console.log(typeof(booleanIsLoggedIn))
 console.log(booleanIsLoggedIn)
+
+let isLoggedIn=-0
+let booleanIsLoggedIn=Boolean(isLoggedIn)
+console.log(typeof(isLoggedIn))
+console.log(typeof(booleanIsLoggedIn))
+console.log(booleanIsLoggedIn)
