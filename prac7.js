@@ -10,4 +10,12 @@ console.log(`\nName is ${name}\nAge is ${age} \nRepo count is ${repoCount}`);
 console.log(name.length)
 console.log(name.indexOf('y'));
 console.log(name.toUpperCase())
-console.log(`name is ${name}`)
+console.log(`name is ${name}`);
+const newName=name.substring(0,4);
+console.log(newName);
+
+const anotherName=name.slice(-5,2);
+console.log(anotherName);
+
+const NAME=name;
+console.log();
