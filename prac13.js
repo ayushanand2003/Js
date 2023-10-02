@@ -18,3 +18,7 @@ const Days =['Sun','Mon','Tue','Thurs','Fri','Sat'];
 console.log(newDate.getMonth()+1);
 console.log(newDate.getDay().toString());
 console.log(Days[(newDate.getDay().toString())]);
+
+newDate.toLocaleString('defaul',{
+    weekday:"long"
+} )
