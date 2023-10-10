@@ -4,13 +4,13 @@ This repository contains various JavaScript codes and projects that I've worked 
 
 ## Contents
 
-### 1. JavaScript Codes
+* JavaScript Codes
 
 
-### 2. JavaScript Projects
+* JavaScript Projects
 
 
-### 3. Notes
+* Notes
 
 
 ## JavaScript Codes
